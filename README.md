@@ -19,7 +19,8 @@ The most significant trend is the **108% increase in sixes** hit, from 623 in 20
 
 <img width="1485" height="258" alt="image" src="https://github.com/user-attachments/assets/4cc712cb-3b84-4a57-8472-ddffc89a3be5" />
 
-<img width="926" height="159" alt="image" src="https://github.com/user-attachments/assets/7753e441-b7b8-421b-b78e-0bd5c5e1180d" />
+
+<img width="1475" height="258" alt="image" src="https://github.com/user-attachments/assets/b11c5a12-30a3-4c51-bf36-27b86788fc48" />
 
 
 
@@ -39,7 +40,9 @@ The dashboard allows us to see the shift in team dominance over 17 years.
 
 <img width="1485" height="168" alt="image" src="https://github.com/user-attachments/assets/84cb3d1a-aaa1-473c-bc24-244069bf2cf7" />
 
+
 <img width="1483" height="164" alt="image" src="https://github.com/user-attachments/assets/1e1d4a04-6dd1-4d6b-8b72-05432633c5f0" />
+
 
 <img width="1483" height="167" alt="image" src="https://github.com/user-attachments/assets/6a3ad6ff-5fa8-4c8a-b8d7-7ba2743247b8" />
 
