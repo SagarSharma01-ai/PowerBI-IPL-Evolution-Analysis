@@ -4,14 +4,11 @@
 
 This project analyzes the 17-year evolution of the Indian Premier League (IPL) by comparing three iconic seasons. The goal was to use Power BI to showcase how the game, team dominance, and player stats have changed.
 
----
 
 ## 1. Tools & Technologies
 - **Power BI:** For building three distinct, filterable dashboards.
 - **DAX:** For creating custom measures for each season.
 - **Data Modeling:** Connecting 4 primary CSV files (Matches, Ball-by-Ball, Players, Teams).
-
----
 
 ## 2. Key Findings & Visualizations
 
@@ -20,12 +17,14 @@ This analysis proves the game has fundamentally changed.
 ### Finding 1: The Evolution of Power-Hitting
 The most significant trend is the **108% increase in sixes** hit, from 623 in 2008 to 1,296 in 2025. The game has clearly shifted from placement to pure power.
 
-**(Yahan par 2008 ka "Total 6's: 623" aur 2025 ka "Total 6's: 1,296" wala card screenshot daalein)**
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/50415e3c-dfc1-4db8-b204-cbdf08004f6b" />
+
 
 ### Finding 2: The 2016 "Kohli Era" Anomaly
-The 2016 season was a historic outlier for batting, driven by **Virat Kohli's** unbelievable **973 runs**. This single-season record remains the benchmark for batting greatness.
 
-**(Yahan par 2016 ka "Orange Cap: V Kohli, 973 Runs" wala card screenshot daalein)**
+
+<img width="1535" height="867" alt="image" src="https://github.com/user-attachments/assets/d1cbec85-1ae3-42fb-8e1a-5da3d35bf2f5" />
+
 
 ### Finding 3: Shifting Champions
 The dashboard allows us to see the shift in team dominance over 17 years.
