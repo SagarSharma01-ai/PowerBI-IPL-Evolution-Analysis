@@ -1,6 +1,6 @@
 # The Evolution of the IPL: A Power BI Analysis (2008 vs. 2016 vs. 2025)
 
-### [View the Final Comparative Report (pdf)](The%20Evolution%20of%20the%20IPL%20A%20Comparative%20Analysis%20(2008%20vs.%202016%20vs.%202025).docx)
+### [View the Final Comparative Report (PDF)](The%20Evolution%20of%20the%20IPL%20A%20Comparative%20Analysis%20(2008%20vs.%202016%20vs.%202025).pdf)
 
 This project analyzes the 17-year evolution of the Indian Premier League (IPL) by comparing three iconic seasons. The goal was to use Power BI to showcase how the game, team dominance, and player stats have changed.
 
